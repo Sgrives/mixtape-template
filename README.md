@@ -9,7 +9,7 @@ Try it out here - [Mixtape](https://alexnjoroge.github.io/mixtape-website/)
 
 ## Libraries and Plugins 
 
-1. Font Awesome v4.7.0
+1. [Font Awesome v4.7.0](https://fontawesome.com/)
 2. [Fitvids](http://fitvidsjs.com/)
 3. [Easing](http://gsgd.co.uk/sandbox/jquery/easing/)
 4. [GreenSock](https://greensock.com/)
