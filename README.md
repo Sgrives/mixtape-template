@@ -25,7 +25,7 @@ Try it out here - [Mixtape](https://alexnjoroge.github.io/mixtape-website/)
 This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details
 
 
-## Contacts
+## Get In Touch
 
  [Twitter](https://twitter.com/thealexnjoroge) 
  
