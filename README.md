@@ -7,21 +7,3 @@ Run the index.html file to open the website.
 
 Try it out here - [Mixtape](https://alexnjoroge.github.io/mixtape-website/)
 
-## Libraries and Plugins 
-
-1. [Font Awesome v4.7.0](https://fontawesome.com/)
-2. [Fitvids](http://fitvidsjs.com/)
-3. [Easing](http://gsgd.co.uk/sandbox/jquery/easing/)
-4. [GreenSock](https://greensock.com/)
-5. [jPlayer](http://jplayer.org/)
-6. [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
-7. [Parallax.js](http://pixelcog.github.io/parallax.js/)
-8. [Progress Bar.js](https://kimmobrunfeldt.github.io/progressbar.js/)
-9. [ScrollMagic](http://scrollmagic.io/)
-
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details
-
-
