@@ -8,5 +8,5 @@ There are multiple sections that you can fill with whatever you want to feature 
 
 Run the index.html file to open the website.
 
-Try it out here - [Mixtape](https://alexnjoroge.github.io/mixtape-website/)
+Try it out here - [Mixtape](https://alexnjoroge.github.io/mixtape-template/)
 
