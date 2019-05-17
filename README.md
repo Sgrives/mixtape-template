@@ -1,8 +1,7 @@
 # Mixtape
-For a modern look to push your creative sound, you need the Mixtape template to get your page rolling.<br> 
-The layout is mobile-ready and optimized for modern web browsers for your page to always look amazing.<br>
-It also performs great on all devices so all users can enjoy listening to your music whether at home or on the go.<br> 
-There are multiple sections that you can fill with whatever you want to feature to spark their interest.
+For a modern look to push your music online, you need this template to get your page rolling.<br> 
+The layout is mobile-ready and performs great on all devices for your page to always look amazing.<br>
+There are multiple sections that you can fill with whatever you want to feature to spark the user's interest.
 
 ## Getting Started
 
